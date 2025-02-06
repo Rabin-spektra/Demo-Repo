@@ -1,2 +1,2 @@
 Inject Keys Test
-<inject key="subscription-1" />
+<inject key="subscription1" />
