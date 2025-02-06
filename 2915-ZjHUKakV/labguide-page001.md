@@ -1,3 +1,1 @@
-```
-user subscription id will be shown here
-```
+<inject key="subscriptionid" />
