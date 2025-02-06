@@ -1,4 +1,10 @@
-Inject Keys Test
-<inject key="subscription1" />
+# Inject Keys Test
+
 This is harcoded
-<inject key="subscriptionid"/>
+```
+user subscription id will be shown here
+```
+Another Subscription
+```
+user subscription id will be shown here
+```
