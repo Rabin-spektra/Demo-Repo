@@ -3,6 +3,8 @@
 First subscription
 <inject key="subscriptionid" />
 
-second subscription
+Second subscription
 <inject key="subscriptionid" />
 
+Third Subscription
+<inject key="subscription-2" />
