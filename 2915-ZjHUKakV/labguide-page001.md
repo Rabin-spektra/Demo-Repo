@@ -1,2 +1,1 @@
-asdfasdfjjjkkkllk
-kkkkllkjd
+<inject key="azureaduseremail" cloudname="azure" enableCopy="false" enableClickToPaste="false"/>
