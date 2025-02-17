@@ -1,4 +1,1 @@
-asdfadsf
-<question source="qssd" />
-akdsjfasdjf
-alsdkfjdksf
+**Email** <inject key="rabin" value="@" key="domain" value=".com"/>
