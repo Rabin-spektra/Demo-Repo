@@ -1,1 +1,3 @@
-```<inject key="azureaduseremail" />```
+```
+    <inject key="azureaduseremail" />
+```
