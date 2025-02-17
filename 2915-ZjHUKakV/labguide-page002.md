@@ -1,0 +1,1 @@
+<inject key="azureaduseremail" enableCopy="false" enableClickToPaste="false" />
