@@ -1,1 +1,1 @@
-<inject key="azureaduseremail" cloudname="azure" enableCopy="false" enableClickToPaste="false"/>
+<pre class="line-numbers language-none" tabindex="0"><code class="language-none" enableClicktoPaste="false" style="">user email will be shown here</code></pre>
