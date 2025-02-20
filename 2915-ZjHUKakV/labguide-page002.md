@@ -1,4 +1,4 @@
 This is cool
 <inject key="azureaduseremail" enableCopy="false" enableClickToPaste="false" />
 hello
-<inject key="displayname" enableCopy="false" enableClickToPaste="false" />
+**Display name:** <inject key="displayname" enableCopy="true" enableClickToPaste="false" /> to test
