@@ -12,5 +12,6 @@ Question 3
 
 last
 this is awesome **Bold Text** *Italic Text*
-k
-Hello worlds
+**k
+Hello worlds**
+**Email:** <inject key="azureaduseremail" enableCopy="true" enableClickToPaste="true" />
