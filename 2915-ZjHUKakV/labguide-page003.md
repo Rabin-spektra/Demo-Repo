@@ -5,4 +5,4 @@
 |||
 |||
 
-![Cloud Computing](https://www.turningcloud.com/blog/wp-content/uploads/2021/09/all-about-cloud-computing.jpeg)d
+![Cloud Computing](https://www.turningcloud.com/blog/wp-content/uploads/2021/09/all-about-cloud-computing.jpeg)
