@@ -1,2 +1,2 @@
 sdff
-**Bold Text**
+**Bold Text** *Italic Text*
