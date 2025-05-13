@@ -16,3 +16,6 @@ is a good thing
 
 <inject key="test" value="test" cloudname="AZURE" enableCopy="true" enableClickToPaste="false" />
 
+<question source="labguidepage001AGVVlpU2" />
+
+hello, good
