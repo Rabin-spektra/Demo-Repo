@@ -1,8 +1,9 @@
 hello 
 world
 
-this is good  
-world  
+this  
+is good
+world
 fan\
 is a good thing
 
@@ -14,3 +15,4 @@ is a good thing
 |2|mary|
 
 <inject key="test" value="test" cloudname="AZURE" enableCopy="true" enableClickToPaste="false" />
+
