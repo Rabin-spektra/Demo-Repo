@@ -5,6 +5,8 @@
 <question source="labguidepage0016LegMnhd" />
 <inject key="azureaduseremail" cloudname="AZURE" enableCopy="true" enableClickToPaste="false" />
 
-![sd](https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D)
+![sd](https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA=)
 
 ![eye-picture](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/istockphoto-814423752-612x612.jpg?token=8b2t1Sg45N8JBe8QNwBlyhJq)
+
+![CL_Logo](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/CL_Logo.png?token=8b2t1Sg45N8JBe8QNwBlyhJq)
