@@ -5,6 +5,7 @@ Question Type : Single Choice
 What do you see in the image?
 <br><br/>
 <img src="https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/cloned-test-file-img/images/pexels-chevanon-1108099.jpg?token=8b2t1Sg45N8JBe8QNwBlyhJq" />
+<br />
 
 ## Options
 Option 1: Dog
