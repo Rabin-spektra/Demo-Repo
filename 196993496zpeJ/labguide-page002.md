@@ -1,5 +1,7 @@
 ## Deleting Test for Image
 
+[Google](http://google.com "Google")
+
 ```
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
