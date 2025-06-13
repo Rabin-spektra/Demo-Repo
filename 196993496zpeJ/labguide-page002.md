@@ -8,6 +8,12 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 ![labguide-1.jpeg](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/labguide-1.jpeg)
 
 |Sl|Employee|
