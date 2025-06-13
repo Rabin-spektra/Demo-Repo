@@ -13,8 +13,9 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+## Photos Testing
 
-![labguide-1.jpeg](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/labguide-1.jpeg)
+![pexels-chevanon-1108099.jpg](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/pexels-chevanon-1108099.jpg)
 
 |Sl|Employee|
 | -------- | -------- |
