@@ -10,3 +10,5 @@ puts markdown.to_html
 | Alice    | 25  | USA         |
 | Bob      | 30  | Canada      |
 | Charlie  | 28  | Australia   |
+
+Hello
