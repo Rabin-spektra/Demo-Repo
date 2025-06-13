@@ -1,1 +1,5 @@
-![depositphotos_465382586-stock-photo-woman-mountains-landscape-autumn](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/depositphotos_465382586-stock-photo-woman-mountains-landscape-autumn.jpg)
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
