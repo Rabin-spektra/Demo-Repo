@@ -5,3 +5,9 @@
 | -------- | -------- |
 |1|John Doe|
 |2|Rabin|
+
+
+This is inject
+
+
+<inject key="azureaduserpassword" enableCopy="true" enableClickToPaste="false" />
