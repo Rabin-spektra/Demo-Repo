@@ -15,7 +15,7 @@ function test() {
 ```
 ## Photos Testing
 
-![pexels-chevanon-1108099.jpg](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/pexels-chevanon-1108099.jpg)
+![images-(1).jpg](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/images-(1).jpg)
 
 |Sl|Employee|
 | -------- | -------- |
@@ -28,5 +28,5 @@ This is inject
 
 <inject key="azureaduserpassword" enableCopy="true" enableClickToPaste="false" />
 - Unordered List
-- 
-![images-(1).jpg](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/images-(1).jpg)
+
+![pexels-chevanon-1108099.jpg](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/pexels-chevanon-1108099.jpg)
