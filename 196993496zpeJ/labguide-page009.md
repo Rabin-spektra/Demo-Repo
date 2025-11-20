@@ -7,6 +7,8 @@
         - sub-subpoint2 
         - ![image2.webp](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/ankitSpektra/LabGuideNew/main/text-input-demo/images/image2.webp)
 
+![pexels-chevanon-1108099.jpg](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/pexels-chevanon-1108099.jpg)
+
 # Test
 # Comprehensive Nested List Test
 
@@ -134,7 +136,8 @@ This is a paragraph after the list.
     - 
 - List back to content
 - **Multiple** *formats* `together` in [one line](https://test.com)
-    - ![img](https://via.placeholder.com/50) **Bold** *italic* `code`
+    -  **Bold** *italic* `code`
+    -  ![pexels-chevanon-1108099.jpg](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Rabin-spektra/Demo-Repo/main/196993496zpeJ/images/pexels-chevanon-1108099.jpg) **Bold** *italic* `code`
 
 ## Test 15: Checkbox Lists (if supported)
 - [ ] Unchecked task
