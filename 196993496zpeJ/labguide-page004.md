@@ -44,7 +44,7 @@ gcloud services enable firewallinsights.googleapis.com
     export PROJECT_ID=**YOUR_PROJECT_ID** <br>
     export BILLING_ID=**YOUR_BILLING_PROJECT_ID** <br>
 
-    3. Set environment variables for your organization ID, deployment region, zone, and naming prefix.
+3. Set environment variables for your organization ID, deployment region, zone, and naming prefix.
 
       ```
       export ORG_ID=$(gcloud projects describe $PROJECT_ID --format=json | jq -r '.parent.id')
