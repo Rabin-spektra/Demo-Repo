@@ -1,0 +1,1 @@
+    This lab demonstrates how to deploy and secure workloads using Google Cloud NGFW Enterprise, a native Google Cloud service powered by Palo Alto Networks’ Threat Prevention technologies.
