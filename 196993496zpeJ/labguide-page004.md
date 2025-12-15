@@ -42,7 +42,7 @@ Enable the required APIs, retrieve the deployment files, and configure the envir
 2. Set environment variables for your deployment project and billing project. <br>
 
     export PROJECT_ID=**YOUR_PROJECT_ID** <br>
-    export BILLING_ID=YOUR_BILLING_PROJECT_ID <br>
+    export BILLING_ID=**YOUR_BILLING_PROJECT_ID** <br>
 
 3. Set environment variables for your organization ID, deployment region, zone, and naming prefix.
 
