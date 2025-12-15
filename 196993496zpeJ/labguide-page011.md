@@ -34,12 +34,12 @@ Enable the required APIs, retrieve the deployment files, and configure the envir
    gcloud services enable firewallinsights.googleapis.com
    ```
    
-2. Set environment variables for your deployment project and billing project.
+2. Set environment variables for your **deployment** ***project*** and billing project.
 
-   export PROJECT_ID=*YOUR_PROJECT_ID*
+   export PROJECT_ID=***YOUR_PROJECT_ID***
    export BILLING_ID=*YOUR_BILLING_PROJECT_ID*
 
-3. Set environment variables for your organization ID, deployment region, zone, and naming prefix.
+3. Set environment *variables* for **your organization ID**, deployment region, zone, and naming prefix.
 
   ```
   export ORG_ID=$(gcloud projects describe $PROJECT_ID --format=json | jq -r '.parent.id')
