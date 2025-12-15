@@ -33,7 +33,6 @@ Enable the required APIs, retrieve the deployment files, and configure the envir
 
 **Note:** Once you click on Cloud Shell, then click Authorize, and then enter the password.
 
-
    ```
     gcloud services enable compute.googleapis.com
     gcloud services enable networksecurity.googleapis.com
@@ -43,7 +42,7 @@ Enable the required APIs, retrieve the deployment files, and configure the envir
 2. Set environment variables for your deployment project and billing project. <br>
 
     export PROJECT_ID=**YOUR_PROJECT_ID** <br>
-    export BILLING_ID=<b><i>YOUR_BILLING_PROJECT_ID</i></b>
+    export BILLING_ID=YOUR_BILLING_PROJECT_ID <br>
 
 3. Set environment variables for your organization ID, deployment region, zone, and naming prefix.
 
